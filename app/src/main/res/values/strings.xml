@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WakelockApp</string>
+    <string name="description_notification">Description Foreground Service</string>
+    <string name="title_notification">Foreground Service</string>
+    <string name="stop">STOP</string>
+    <string name="start">START</string>
+    <string name="wakelock_on">WAKELOCK ON</string>
+    <string name="wakelock_off">WAKELOCK OFF</string>
+    <string name="notif">WAKELOCK NOTIF</string>
+</resources>
